@@ -20,8 +20,8 @@ pip install -r requirements.txt
 1. Clone the repository:
 
 ```bash
-git clone <repo-url>
-cd <repo-folder>
+git clone https://github.com/PratikNichite/Predictive-Modeling-for-Restaurant-Profit-Optimization.git
+cd Predictive-Modeling-for-Restaurant-Profit-Optimization-main
 ```
 
 2. Open jupyter notebook:
