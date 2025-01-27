@@ -38,9 +38,9 @@ jupyter notebook code.ipynb
 
 ## Dataset Visualization
 
-- The following diagram shows the scatter plot of city populations versus restaurant profits:
-
 ![Dataset](assets/dataset.png)
+
+- The following diagram shows the scatter plot of city populations versus restaurant profits:
 
 ## Results
 
