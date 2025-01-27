@@ -35,3 +35,15 @@ jupyter notebook code.ipynb
 
 - The dataset used in this project was gathered from a Machine Learning course from Coursera (taught by Andrew Ng).
 - Ensure the dataset is placed in the appropriate directory before running the notebook.
+
+## Dataset Visualization
+
+- The following diagram shows the scatter plot of city populations versus restaurant profits:
+  ![Dataset](assets/dataset.png)
+
+## Results
+
+![Output](assets/output.png)
+
+- The analysis shows a positive correlation between city population and restaurant profit, meaning larger populations are likely to yield higher profits.
+- This model helps predict potential profits for new locations.
