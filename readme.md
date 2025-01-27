@@ -2,10 +2,9 @@
 
 ## Problem Statement
 
-This project involves predicting restaurant profits based on city populations.  
-As the CEO of a restaurant franchise, you are considering different cities for opening a new outlet.  
-The goal is to use linear regression to analyze existing data on city populations and restaurant profits  
-to determine which cities may yield higher returns.
+- This project involves predicting restaurant profits based on city populations.
+- As the CEO of a restaurant franchise, you are considering different cities for opening a new outlet.
+- The goal is to use linear regression to analyze existing data on city populations and restaurant profits to determine which cities may yield higher returns.
 
 ## Installation
 
