@@ -27,7 +27,7 @@ cd <repo-folder>
 2. Open jupyter notebook:
 
 ```bash
-jupyter notebook C1_W2_Linear_Regression.ipynb
+jupyter notebook code.ipynb
 ```
 
 3. Run the notebook cells sequentially.
