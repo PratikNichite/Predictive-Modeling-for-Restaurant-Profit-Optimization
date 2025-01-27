@@ -38,13 +38,13 @@ jupyter notebook code.ipynb
 
 ## Dataset Visualization
 
-![Dataset](assets/dataset.png)
+![Dataset](assets/dataset_visualization.png)
 
 - The following diagram shows the scatter plot of city populations versus restaurant profits:
 
 ## Results
 
-![Output](assets/output.png)
+![Output](assets/output_visualization.png)
 
 - The analysis shows a positive correlation between city population and restaurant profit, meaning larger populations are likely to yield higher profits.
 - This model helps predict potential profits for new locations.
